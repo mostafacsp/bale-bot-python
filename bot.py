@@ -1,7 +1,7 @@
 #import bale
 #from bale import Bot , Message
 
-#bot=Bot(token="945540989:5CDXTfTPqp5gZlbVNtLKY_qWDxVuOGum6")
+#bot=Bot(token="444444444444")
 
 #@bot.message_handler(commands=['start'])
 #def send_welcome(message:Message):
@@ -16,7 +16,7 @@ import logging
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
-bot = Bot(token="945540989:5CDXTfTPqp5gZlbVNtLKY_qWDxVuOGum6-c")
+bot = Bot(token="اااااااااااااا")
 user_states = {}
 
 class UserState:
